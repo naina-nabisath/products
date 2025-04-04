@@ -1,2 +1,4 @@
 hello world!
 3rd msg
+masg after commit and 
+before add
